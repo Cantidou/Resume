@@ -24,9 +24,9 @@ cantiiii@gmail.com
 * Git
 
 ## Проекты 
-В процессе курсов Нетологии:
+### В процессе курсов Нетологии:
 * [https://github.com/Cantidou/bhj-diploma] Основы JavaScript в браузере
 * [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка
 * [https://github.com/Cantidou/Cross]
-Другое
+### Другое
 * [https://github.com/Cantidou/quizgame] Интенсив на Udemy
