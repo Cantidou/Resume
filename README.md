@@ -22,6 +22,7 @@ cantiiii@gmail.com
 ## Hard skills
 * JS
 * CSS/HTML
+* Mobile first, адаптивная верстка
 * SCSS
 * React (в процессе)
 * Git
