@@ -1,12 +1,12 @@
-![картинка](img/picture.jpg)
+
 # Машенец Богдан Сергеевич
 28 лет, родился 3 ноября 1993
 
-+7 (908) 8898551 — > предпочитаемый способ связи
+тел +7 (908) 889 8551 / +998 91 004 1473
 
-cantido@rambler.ru
+cantiiii@gmail.com
 
-Город: Санкт-Петербург
+Город: Ташкент
 
 Гражданство: Россия
 
@@ -14,11 +14,19 @@ cantido@rambler.ru
 Бакалавр
 > 2018 Сибирский институт бизнеса и информационных технологий, г.Омск
 Прикладная информатика (бакалавр прикладной информатики)
+> 2022 ООО "Нетология" Программист на JavaScript 
 
 ## Навыки
-* JavaScript
+* JS
 * CSS/HTML
+* SCSS
+* React (в процессе)
 * Git
 
 ## Проекты 
-* [https://cantidou.github.io/MQ-diploma/]
+В процессе курсов Нетологии:
+* [https://github.com/Cantidou/bhj-diploma] Основы JavaScript в браузере
+* [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка
+* [https://github.com/Cantidou/Cross]
+Другое
+* [https://github.com/Cantidou/quizgame] Интенсив на Udemy
