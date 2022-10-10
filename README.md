@@ -36,7 +36,8 @@ cantiiii@gmail.com
 ## Языки
 * Английский (А2)
 
-## Проекты 
+### Проекты 
+* [https://github.com/Cantidou/warplay] Верстка сервиса облачного гейминга(in progress...)
 ### В процессе курсов Нетологии:
 * [https://github.com/Cantidou/bhj-diploma] Основы JavaScript в браузере
 * [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка
