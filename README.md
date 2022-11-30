@@ -37,11 +37,7 @@ cantiiii@gmail.com
 * Английский (А2)
 
 ### Проекты 
-* [https://github.com/Cantidou/warplay] Верстка сервиса облачного гейминга(in progress...)
-* [https://github.com/Cantidou/react-sneakers] Магазин кроссовок на React (в процессе изучения react)
-### В процессе курсов Нетологии:
-* [https://github.com/Cantidou/bhj-diploma] Основы JavaScript в браузере
-* [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка
-* [https://github.com/Cantidou/Cross]
-### Другое
-* [https://github.com/Cantidou/quizgame] Интенсив на Udemy
+* [https://cantidou.github.io/warplay/] Верстка сервиса облачного гейминга (HTML/CSS/SCSS/JS)
+* [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка (HTML/CSS)
+* [https://github.com/Cantidou/react-sneakers] Магазин кроссовок на React (в процессе) (React.js/SCSS)
+
