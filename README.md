@@ -37,8 +37,16 @@ cantiiii@gmail.com
 * Английский (А2)
 
 ### Проекты 
-* [https://cantidou.github.io/warplay/] Адаптивная верстка сервиса облачного гейминга (HTML/CSS/SCSS/JS)
-* [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка блога (HTML/CSS)
-* [https://github.com/Cantidou/react-sneakers] Магазин кроссовок на React (в процессе) (React.js/SCSS)
-* [https://cantidou.github.io/price_hunter] Адаптивная верстка сайта поиска лучших цен (в процессе) (HTML/CSS/SCSS/Bootstrap/JS)
+#### Адаптивная верстка сервиса облачного гейминга (HTML/CSS/SCSS/JS)
+* [https://github.com/Cantidou/warplay]
+* [https://cantidou.github.io/warplay/] 
+#### Адаптивная верстка блога (HTML/CSS)
+* [https://github.com/Cantidou/MQ-diploma]
+* [https://cantidou.github.io/MQ-diploma/] 
+#### Адаптивная верстка сайта поиска лучших цен (в процессе) (HTML/CSS/SCSS/Bootstrap/JS)
+* [https://github.com/Cantidou/price_hunter]
+* [https://cantidou.github.io/price_hunter]
+#### Магазин кроссовок на React (в процессе) (React.js/SCSS)
+* [https://github.com/Cantidou/react-sneakers]
+
 
