@@ -40,5 +40,5 @@ cantiiii@gmail.com
 * [https://cantidou.github.io/warplay/] Адаптивная верстка сервиса облачного гейминга (HTML/CSS/SCSS/JS)
 * [https://cantidou.github.io/MQ-diploma/] Адаптивная верстка блога (HTML/CSS)
 * [https://github.com/Cantidou/react-sneakers] Магазин кроссовок на React (в процессе) (React.js/SCSS)
-* [https://cantidou.github.io/price_hunter/] Адаптивная верстка сайта поиска лучших цен (в процессе) (HTML/CSS/SCSS/Bootstrap/JS)
+* [https://cantidou.github.io/price_hunter] Адаптивная верстка сайта поиска лучших цен (в процессе) (HTML/CSS/SCSS/Bootstrap/JS)
 
