@@ -44,8 +44,8 @@ cantiiii@gmail.com
 * [https://github.com/Cantidou/MQ-diploma]
 * [https://cantidou.github.io/MQ-diploma/] 
 #### Адаптивная верстка сайта поиска лучших цен (в процессе) (HTML/CSS/SCSS/Bootstrap/JS)
-* [https://github.com/Cantidou/price_hunter]
-* [https://cantidou.github.io/price_hunter]
+* [https://github.com/Cantidou/PriceHunter]
+
 #### Магазин кроссовок на React (в процессе) (React.js/SCSS)
 * [https://github.com/Cantidou/react-sneakers]
 
