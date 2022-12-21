@@ -49,6 +49,7 @@ cantiiii@gmail.com
 
 #### Квиз игра (HTML/CSS/JS)
 * [https://github.com/Cantidou/quizgame]
+* [https://cantidou.github.io/quizgame/]
 
 #### Магазин кроссовок на React (в процессе) (React.js/SCSS)
 * [https://github.com/Cantidou/react-sneakers]
