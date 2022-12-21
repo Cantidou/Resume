@@ -47,7 +47,8 @@ cantiiii@gmail.com
 * [https://cantidou.github.io/PriceHunter/]
 * [https://github.com/Cantidou/PriceHunter]
 
+#### Квиз игра (HTML/CSS/JS)
+*[https://github.com/Cantidou/quizgame]
+
 #### Магазин кроссовок на React (в процессе) (React.js/SCSS)
 * [https://github.com/Cantidou/react-sneakers]
-
-
