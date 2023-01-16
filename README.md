@@ -27,7 +27,7 @@ cantiiii@gmail.com
 * ReactJS (hooks/React-router/React-skeleton/React-context)
 * Знание принципов действия AJAX и RestAPI
 * Использую библиотеку axios
-* БЭМ, styled components
+* Знание принципов БЭМ и styled components
 * Система контроля версий Git
 
 ## Soft skills
