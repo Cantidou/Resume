@@ -22,9 +22,11 @@ cantiiii@gmail.com
 ## Hard skills
 * JS
 * CSS/HTML
-* Mobile first, адаптивная верстка
 * SCSS
-* React (в процессе)
+* Адаптивная верстка, Mobile first, pixel perfect
+* React (hooks/React-router/React-skeleton/React-context)
+* AJAX 
+* axios
 * Git
 
 ## Soft skills
@@ -37,7 +39,7 @@ cantiiii@gmail.com
 * Английский (А2)
 
 ### Проекты 
-#### Магазин кроссовок на React (в процессе) (ReactJS + hooks/React-router/axios/React-skeleton/React-context/SCSS)
+#### Магазин кроссовок на React (ReactJS + hooks/React-router/axios/React-skeleton/React-context/SCSS)
 * [https://github.com/Cantidou/react-sneakers]
 * [https://cantidou.github.io/react-sneakers/]
 
