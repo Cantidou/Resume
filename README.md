@@ -23,10 +23,11 @@ cantiiii@gmail.com
 * JavaScript
 * CSS/HTML
 * SCSS
-* Адаптивная верстка, Mobile first, pixel perfect
+* Адаптивная верстка( Mobile first, pixel perfect, bootstrap при необходимости)
 * ReactJS (hooks/React-router/React-skeleton/React-context)
 * Знание принципов действия AJAX и RestAPI
 * Использую библиотеку axios
+* БЭМ, styled components
 * Система контроля версий Git
 
 ## Soft skills
