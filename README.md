@@ -20,14 +20,14 @@ cantiiii@gmail.com
 > 2022 ООО "Нетология" Программист на JavaScript 
 
 ## Hard skills
-* JS
+* JavaScript
 * CSS/HTML
 * SCSS
 * Адаптивная верстка, Mobile first, pixel perfect
-* React (hooks/React-router/React-skeleton/React-context)
-* AJAX 
-* axios
-* Git
+* ReactJS (hooks/React-router/React-skeleton/React-context)
+* Знание принципов действия AJAX и RestAPI
+* Использую библиотеку axios
+* Система контроля версий Git
 
 ## Soft skills
 * Неконфликтность
@@ -55,6 +55,6 @@ cantiiii@gmail.com
 * [https://github.com/Cantidou/warplay]
 * [https://cantidou.github.io/warplay/] 
 
-#### Адаптивная верстка сайта поиска лучших цен (в процессе) (HTML/CSS/SCSS/Bootstrap/JS)
+#### Адаптивная верстка сайта поиска лучших цен (HTML/CSS/SCSS/Bootstrap/JS)
 * [https://cantidou.github.io/PriceHunter/]
 * [https://github.com/Cantidou/PriceHunter]
