@@ -48,6 +48,10 @@ cantiiii@gmail.com
 * [https://github.com/Cantidou/quizgame]
 * [https://cantidou.github.io/quizgame/]
 
+#### Карточки товаров (ReactJS/SCSS)
+* [https://github.com/Cantidou/junior-front-end-test]
+* [https://cantidou.github.io/junior-front-end-test/]
+
 #### Адаптивная верстка блога (HTML/CSS)
 * [https://github.com/Cantidou/MQ-diploma]
 * [https://cantidou.github.io/MQ-diploma/] 
