@@ -25,6 +25,7 @@ cantiiii@gmail.com
 * SCSS
 * Адаптивная верстка( Mobile first, pixel perfect, bootstrap при необходимости)
 * ReactJS (hooks/React-router/React-skeleton/React-context)
+* Redux-toolkit базовые знания
 * Знание принципов действия AJAX и RestAPI
 * Использую библиотеку axios
 * Знание принципов БЭМ и CSS modules
